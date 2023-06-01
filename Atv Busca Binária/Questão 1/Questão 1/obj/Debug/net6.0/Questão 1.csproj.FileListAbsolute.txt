@@ -1,0 +1,15 @@
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\bin\Debug\net6.0\Questão 1.exe
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\bin\Debug\net6.0\Questão 1.deps.json
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\bin\Debug\net6.0\Questão 1.runtimeconfig.json
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\bin\Debug\net6.0\Questão 1.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\bin\Debug\net6.0\Questão 1.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\obj\Debug\net6.0\Questão 1.csproj.AssemblyReference.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\obj\Debug\net6.0\Questão 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\obj\Debug\net6.0\Questão 1.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\obj\Debug\net6.0\Questão 1.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\obj\Debug\net6.0\Questão 1.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\obj\Debug\net6.0\Questão 1.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\obj\Debug\net6.0\refint\Questão 1.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\obj\Debug\net6.0\Questão 1.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\obj\Debug\net6.0\Questão 1.genruntimeconfig.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Atv Busca Binária\Questão 1\Questão 1\obj\Debug\net6.0\ref\Questão 1.dll
